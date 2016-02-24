@@ -1,0 +1,10 @@
+MJ -> MC  FALSE
+MB -> ME  TRUE
+MA -> MG FALSE
+MI -> MF  TRUE
+MD -> MD TRUE
+MD -> itself FLASE
+
+
+After construct the CFG, I put all the statement into a two dimentional array using a loop. So the CFG is build. And then I use the Floyd-Warshall algorithm to calculate the reachibility, after that
+, I can easily calculate the two invokes are reachible or not by  looking at the result of the two-dimention array. If the result bigger than 0, then it's reachible, vice versa.

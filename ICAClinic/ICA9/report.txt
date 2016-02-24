@@ -1,0 +1,40 @@
+Senario: 1
+Run All: 160.887900114
+Analysis: 1.24051586151
+Run Selected: 6.91413879395e-06
+Saving: 159.647377338
+
+
+Senario: 2
+Run All: 160.887900114
+Analysis: 0.948365831375
+Run Selected: 3.09944152832e-06
+Saving: 159.939531183
+
+
+Senario: 3
+Run All: 160.887900114
+Analysis: 0.980407958984
+Run Selected: 2.86102294922e-06
+Saving: 159.907489294
+
+
+Senario: 4
+Run All: 160.887900114
+Analysis: 0.975463973999
+Run Selected: 13.1676328182
+Saving: 146.744803322
+
+
+Senario: 5
+Run All: 160.887900114
+Analysis: 0.92415700531
+Run Selected: 6.103515625e-05
+Saving: 159.963682074
+
+
+Senario: 6
+Run All: 160.887900114
+Analysis: 0.978488946915
+Run Selected: 1.09672546387e-05
+Saving: 159.9094002

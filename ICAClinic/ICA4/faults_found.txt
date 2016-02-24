@@ -1,0 +1,12 @@
+1 there is a font fault in AdminMenu.jsp page, the font-size of anchor tag named admin in the wrong war is smaller than the right one.
+2 in the Default.jsp page, the foot part of wrong page shows differently compared by the right one. there is a link in the wrong page but not in the right page.
+**3 the action of add a member info function seems failed in the wrong war, in other words, the right version can shows the info I created but the wrong version shows that there is no record.
+4 the attribute of dep_id are totally different to the right version in DepsGrid.jsp.
+5 the sequence of pic:admin.gif and home.gif reversed compared to the right version.
+6 there is one more button named delete in the wrong version in DepsRecord.jsp?dep_id=1  page.
+7 in the EmpDetail.jsp, the wrong version use the different pic named bobk.jpg rather than the lij.jpg
+8 in the EmpsGrid.jsp page, the sequence of employee info are different compared to the right one, in other word, the sequence of emp_id are different.
+9 the binary files home.gif are different.
+10 when we login success, in the AdminMenu.jsp page, the anchords which refers to go to the EmpsGrid.jsp and DepsGrid.jsp are reversed.
+
+the **3 fualts is suspecious, and other faults are the excat faults and I checked that from the different URL.

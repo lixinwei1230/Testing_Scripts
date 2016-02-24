@@ -1,0 +1,3 @@
+"http://localhost:8080/bookstore/Login.jsp?Login=admin&Password=admin&FormAction=login&FormName=Login&" -O 1.jsp
+"http://localhost:8080/bookstore/Login.jsp?Login=admin&Password=admin&FormName=Login&FormAction=login&querystring=item_id%3D22%26&ret_page=%2Fbookstore%2FBookDetail.jsp" -O 2.jsp
+"http://localhost:8080/bookstore/MyInfo.jsp?" -O 3.jsp

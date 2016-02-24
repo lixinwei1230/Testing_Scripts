@@ -1,0 +1,63 @@
+127.0.1.1 /empldir/Default.jsp  200
+127.0.1.1 /empldir/images/logo.gif  200
+127.0.1.1 /empldir/images/admin.gif  200
+127.0.1.1 /empldir/images/home.gif  200
+127.0.1.1 /favicon.ico  404
+127.0.1.1 /empldir/AdminMenu.jsp  302
+127.0.1.1 /empldir/Login.jsp ?querystring=&ret_page=%2Fempldir%2FAdminMenu.jsp 200
+127.0.1.1 /empldir/Login.jsp  302
+127.0.1.1 /empldir/AdminMenu.jsp ?Default.jsp 200
+127.0.1.1 /empldir/AdminMenu.jsp  200
+127.0.1.1 /empldir/DepsGrid.jsp  200
+127.0.1.1 /empldir/DepsRecord.jsp ?dep_id=1& 200
+127.0.1.1 /empldir/DepsRecord.jsp ?name=Software0&FormName=deps&FormAction=update&dep_id=1&PK_dep_id=1 302
+127.0.1.1 /empldir/DepsGrid.jsp  200
+127.0.1.1 /empldir/DepsRecord.jsp ?dep_id=1& 200
+127.0.1.1 /empldir/DepsRecord.jsp ?name=Software0&FormName=deps&FormAction=cancel&dep_id=1&PK_dep_id=1 302
+127.0.1.1 /empldir/DepsGrid.jsp  200
+127.0.1.1 /empldir/DepsRecord.jsp ?dep_id=1& 200
+127.0.1.1 /empldir/DepsRecord.jsp ?name=Software0&FormName=deps&FormAction=cancel&dep_id=1&PK_dep_id=1 302
+127.0.1.1 /empldir/DepsGrid.jsp  200
+127.0.1.1 /empldir/DepsRecord.jsp  200
+127.0.1.1 /empldir/DepsRecord.jsp ?name=test&FormName=deps&FormAction=insert&dep_id=&PK_dep_id= 302
+127.0.1.1 /empldir/DepsGrid.jsp  200
+127.0.1.1 /empldir/AdminMenu.jsp  200
+127.0.1.1 /empldir/EmpsGrid.jsp  200
+127.0.1.1 /empldir/EmpsRecord.jsp ?emp_login=&name=&manmonth=&emp_id=4& 200
+127.0.1.1 /empldir/EmpsRecord.jsp ?name=Zhiheng&title=Developer&emp_login=zhiheng&emp_password=zhiheng&emp_level=3&dep_id=1&address=&email=bobk%40company.com&work_phone=%28364%29+134-5411&home_phone=%28564%29+343-3367&cell_phone=&picture=bobk.jpg&FormName=emps&FormAction=delete&emp_id=4&PK_emp_id=4 200
+127.0.1.1 /empldir/EmpsRecord.jsp ?name=Zhiheng&title=Developer&emp_login=zhiheng&emp_password=zhiheng&emp_level=3&dep_id=1&address=1&email=bobk%40company.com&work_phone=%28364%29+134-5411&home_phone=%28564%29+343-3367&cell_phone=&manmonth=1&picture=bobk.jpg&FormName=emps&FormAction=delete&emp_id=4&PK_emp_id=4 200
+127.0.1.1 /empldir/EmpsRecord.jsp ?name=Zhiheng&title=Developer&emp_login=zhiheng&emp_password=zhiheng&emp_level=3&dep_id=1&address=test&email=bobk%40company.com&work_phone=%28364%29+134-5411&home_phone=%28564%29+343-3367&cell_phone=&picture=bobk.jpg&FormName=emps&FormAction=update&emp_id=4&PK_emp_id=4 302
+127.0.1.1 /empldir/EmpsGrid.jsp  200
+127.0.1.1 /empldir/EmpsRecord.jsp ?emp_login=&name=&manmonth=&emp_id=3& 200
+127.0.1.1 /empldir/EmpsRecord.jsp ?name=Jhih&title=Developer&emp_login=jhih&emp_password=jhih&emp_level=3&dep_id=1&address=xixi&email=bobk%40company.com&work_phone=%28364%29+134-5411&home_phone=%28564%29+343-3367&cell_phone=&picture=bobk.jpg&FormName=emps&FormAction=update&emp_id=3&PK_emp_id=3 302
+127.0.1.1 /empldir/EmpsGrid.jsp  200
+127.0.1.1 /empldir/EmpsRecord.jsp ?emp_login=&name=&manmonth=& 200
+127.0.1.1 /empldir/EmpsRecord.jsp ?name=Xinwei&title=aaa&emp_login=aaa&emp_password=aaa&emp_level=0&dep_id=2&address=aaa&email=aaa%40aaa.com&work_phone=111&home_phone=111&cell_phone=111&picture=&FormName=emps&FormAction=insert&emp_id=&PK_emp_id= 302
+127.0.1.1 /empldir/EmpsGrid.jsp  200
+127.0.1.1 /empldir/EmpsGrid.jsp ?emp_login=ali&name=&manmonth=0 200
+127.0.1.1 /empldir/EmpsGrid.jsp ?emp_login=aaa&name=&manmonth=0 200
+127.0.1.1 /empldir/EmpsRecord.jsp ?emp_login=aaa&name=&manmonth=0&emp_id=10& 200
+127.0.1.1 /empldir/EmpsRecord.jsp ?name=Xinwei&title=aaa&emp_login=aaa&emp_password=aaa&emp_level=0&dep_id=2&address=aaa&email=aaa%40aaa.com&work_phone=111&home_phone=111&cell_phone=111&picture=&FormName=emps&FormAction=delete&emp_id=10&PK_emp_id=10 200
+127.0.1.1 /empldir/EmpsRecord.jsp ?name=Xinwei&title=aaa&emp_login=aaa&emp_password=aaa&emp_level=0&dep_id=2&address=aaa&email=aaa%40aaa.com&work_phone=111&home_phone=111&cell_phone=111&picture=&FormName=emps&FormAction=cancel&emp_id=10&PK_emp_id=10 302
+127.0.1.1 /empldir/EmpsGrid.jsp  200
+127.0.1.1 /empldir/EmpsGrid.jsp ?emp_login=aaa&name=&manmonth= 200
+127.0.1.1 /empldir/EmpsRecord.jsp ?emp_login=aaa&name=&manmonth=&emp_id=10& 200
+127.0.1.1 /empldir/EmpsRecord.jsp ?name=Xinwei&title=aaa&emp_login=aaa&emp_password=aaa&emp_level=0&dep_id=2&address=aaabbb&email=aaa%40aaa.com&work_phone=111&home_phone=111&cell_phone=111&picture=&FormName=emps&FormAction=update&emp_id=10&PK_emp_id=10 302
+127.0.1.1 /empldir/EmpsGrid.jsp  200
+127.0.1.1 /empldir/Default.jsp  200
+127.0.1.1 /empldir/EmpDetail.jsp ?name=&dep_id=&email=&emp_id=2& 200
+127.0.1.1 /empldir/images/emps/lij.jpg  200
+127.0.1.1 /empldir/EmpDetail.jsp ?FormName=Record&FormAction=cancel&Trn_dep_id=&Trn_name=&Trn_email=&PK_emp_id=2 302
+127.0.1.1 /empldir/Default.jsp ?dep_id=&name=&email= 200
+127.0.1.1 /empldir/EmpDetail.jsp ?name=&dep_id=&email=&emp_id=1& 200
+127.0.1.1 /empldir/EmpDetail.jsp ?FormName=Record&FormAction=cancel&Trn_dep_id=&Trn_name=&Trn_email=&PK_emp_id=1 302
+127.0.1.1 /empldir/Default.jsp ?dep_id=&name=&email= 200
+127.0.1.1 /empldir/EmpDetail.jsp ?name=&dep_id=&email=&emp_id=10& 200
+127.0.1.1 /empldir/EmpDetail.jsp ?FormName=Record&FormAction=cancel&Trn_dep_id=&Trn_name=&Trn_email=&PK_emp_id=10 302
+127.0.1.1 /empldir/Default.jsp ?dep_id=&name=&email= 200
+127.0.1.1 /empldir/Default.jsp ?dep_id=&name=test&email= 200
+127.0.1.1 /empldir/Default.jsp ?dep_id=&name=xinwei&email= 200
+127.0.1.1 /empldir/EmpDetail.jsp ?name=xinwei&dep_id=&email=&emp_id=10& 200
+127.0.1.1 /empldir/EmpDetail.jsp ?FormName=Record&FormAction=cancel&Trn_dep_id=&Trn_name=xinwei&Trn_email=&PK_emp_id=10 302
+127.0.1.1 /empldir/Default.jsp ?dep_id=&name=xinwei&email= 200
+127.0.1.1 /empldir/DumpServlet.jsp  200

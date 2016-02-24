@@ -1,0 +1,11 @@
+http://localhost:8080/bookstore/Login.jsp?Login=admin&Password=admin&FormAction=login&FormName=Login&
+http://localhost:8080/bookstore/Login.jsp?Login=admin&Password=admin&FormAction=login&FormName=Login&querystring=&ret_page=%2Fbookstore%2FBookDetail.jsp
+http://localhost:8080/bookstore/Login.jsp?Login=admin&Password=admin&FormAction=login&FormName=Login&querystring=item_id%3D1%26&ret_page=%2Fbookstore%2FBookDetail.jsp
+http://localhost:8080/bookstore/Login.jsp?querystring=&ret_page=%2Fbookstore%2FShoppingCart.jsp
+http://localhost:8080/bookstore/Login.jsp?Login=admin&Password=admin&FormAction=login&FormName=Login&querystring=&ret_page=%2Fbookstore%2FShoppingCart.jsp
+http://localhost:8080/bookstore/ShoppingCartRecord.jsp?order_id=1&
+http://localhost:8080/bookstore/ShoppingCart.jsp
+http://localhost:8080/bookstore/MyInfo.jsp?
+http://localhost:8080/bookstore/MyInfo.jsp?member_password=admin&name=Administrator&last_name=Account&email=admin%40localhost&address=&phone=&notes=&card_type_id=&card_number=&FormName=Form&FormAction=update&member_id=1&PK_member_id=1
+http://localhost:8080/bookstore/MyInfo.jsp?member_password=admin&name=Administrator&last_name=Account&email=admin%40localhost&address=KK&phone=KK&notes=KKK&card_type_id=2&card_number=0099&FormName=Form&FormAction=update&member_id=1&PK_member_id=1
+http://localhost:8080/bookstore/Default.jsp
